@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Lee&&fontColor=e2e2e2)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Lee&&fontColor=8b00ff)
 ![computer-cat (1)](https://github.com/sueWavy/sueWavy/assets/148526219/80c94173-3949-463e-92e6-efc092eebf5a)
 
 
