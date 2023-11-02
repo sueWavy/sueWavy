@@ -17,7 +17,9 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-black?style=React&logo=React&logoColor=61DAFB"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React_Query-black?style=reactquery&logo=reactquery&logoColor=FF4154"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React_Router-black?style=reactrouter&logo=reactrouter&logoColor=CA4245"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Recoil-black?style=recoil&logo=recoil&logoColor=3578E5"/></a> <br/>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Recoil-black?style=recoil&logo=recoil&logoColor=3578E5"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Axios-black?style=axios&logo=axios&logoColor=5A29E4"/></a>
+<br/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Sass-black?style=Sass&logo=Sass&logoColor=CC6699"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Styled_Components-black?style=styledcomponents&logo=styledcomponents&logoColor=DB7093"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-black?style=tailwindcss&logo=tailwindcss&logoColor=06B6D4"/></a>
