@@ -7,7 +7,7 @@
 
  👾 안녕하세요 ! 프론트엔드 개발자 이수광입니다 👾
 </div>  
-<br/>
+
 
 **💻 &nbsp;Teck Stacks & Learning** <br/><br/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-black?style=HTML&logo=HTML5&logoColor=E34F26"/></a>
@@ -29,7 +29,7 @@
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsueWavy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
-<a href="https://sue97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e2e2e2?style=tistory&logo=tistory&logoColor=black"/></a>
+<a href="https://sue97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e2e2e2?style=tistory&logo=tistory&logoColor=black"/></a> &nbsp;
 <a href="https://sue97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/sueboi0311@gmail.com-e2e2e2?style=gmail&logo=gmail&logoColor=black"/></a>
 <br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueWavy)](https://github.com/sueWavy/github-readme-stats)<br/>
