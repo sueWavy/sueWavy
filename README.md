@@ -32,9 +32,10 @@
 <br/><br/>
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsueWavy&count_bg=%23B262B7&title_bg=%23464646&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
+ &nbsp;
 <a href="https://sue97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e2e2e2?style=tistory&logo=tistory&logoColor=black"/></a> &nbsp;
-<a href="" target="_blank"><img src="https://img.shields.io/badge/sueboi0311@gmail.com-e2e2e2?style=gmail&logo=gmail&logoColor=black"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/sueboi0311@gmail.com-e2e2e2?style=gmail&logo=gmail&logoColor=black"/></a> &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsueWavy&count_bg=%23B262B7&title_bg=%23464646&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueWavy)](https://github.com/sueWavy/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueWavy&layout=compact)](https://github.com/sueWavy/github-readme-stats)
