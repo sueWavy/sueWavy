@@ -29,7 +29,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=github&logo=github&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Trello-black?style=trello&logo=trello&logoColor=0052CC"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Jira-black?style=Jira&logo=Jira&logoColor=0052CC"/></a>
-<br/><br/>
+<br/>
 <div align="center">
   
  &nbsp;
