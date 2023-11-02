@@ -32,7 +32,7 @@
 <br/><br/>
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsueWavy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsueWavy&count_bg=%23B262B7&title_bg=%23464646&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
 <a href="https://sue97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e2e2e2?style=tistory&logo=tistory&logoColor=black"/></a> &nbsp;
 <a href="" target="_blank"><img src="https://img.shields.io/badge/sueboi0311@gmail.com-e2e2e2?style=gmail&logo=gmail&logoColor=black"/></a>
 <br/><br/>
