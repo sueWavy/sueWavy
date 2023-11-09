@@ -5,7 +5,7 @@
 ![computer-cat (1)](https://github.com/sueWavy/sueWavy/assets/148526219/80c94173-3949-463e-92e6-efc092eebf5a)
 
 
- 👾 안녕하세요 ! 프론트엔드 이수광입니다 👾
+ 👾 안녕하세요 ! 프론트엔드 개발을 학습 중인 이수광입니다 👾
 
 
 
