@@ -9,7 +9,7 @@
 
 
 
-**💻 &nbsp;Teck Stacks & Learning** <br/><br/>
+**💻 &nbsp;Tech Stacks & Learning** <br/><br/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-black?style=HTML&logo=HTML5&logoColor=E34F26"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-black?style=CSS3&logo=CSS3&logoColor=1572B6"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=JS&logo=JavaScript&logoColor=F7DF1E"/></a>
